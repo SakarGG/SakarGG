@@ -1,4 +1,4 @@
-**### Hello World, it's Sakar👋**
+**Hello World, it's Sakar👋**
 
 **About me:**
 
