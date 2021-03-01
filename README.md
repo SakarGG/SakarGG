@@ -12,5 +12,5 @@ Connect:
 </a>
 
 <a href="mailto:sakargopal@.com">
-  <img align="left" alt="Sakar's Email" width="22px" src="https://logos-world.net/gmail-logo/" />
+  <img align="left" alt="Sakar's Email" width="22px" src="https://similarpng.com/gmail-logo-design-on-transparent-background-png/" />
 </a>
