@@ -1,16 +1,13 @@
-### Hello World, it's Sakar👋
+**### Hello World, it's Sakar👋**
 
-About me:
+**About me:**
 
-- 💻  BSc. Freshman Computer Science at Jacobs University
+- 💻 BSc. Freshman Computer Science at Jacobs University
 - 📍 Bremen, Germany
 
-Connect:
+
+**Connect:**
 
 <a href="https://www.linkedin.com/in/sakarg/">
   <img align="left" alt="Sakar's LinkedIn" width="22px" src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_128x128.png?_ga=2.82811990.1712353861.1614541669-81690672.1614541669" />
-</a>
-
-<a href="mailto:sakargopal@.com">
-  <img align="left" alt="Sakar's Email" width="22px" src="https://similarpng.com/gmail-logo-design-on-transparent-background-png/" />
 </a>
