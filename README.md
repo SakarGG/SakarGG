@@ -13,5 +13,5 @@
 </a>
 
 <a href="mailto:sakargopal@gmail.com">
-  <img align="left" alt="Sakar's Gmail" width="35px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" />
+  <img align="left" alt="Sakar's Gmail" width="22px" src="https://cdn.worldvectorlogo.com/logos/gmail-icon-2.svg" />
 </a>
