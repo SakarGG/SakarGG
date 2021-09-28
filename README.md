@@ -2,7 +2,7 @@
 
 **About me:**
 
-- 💻 BSc. Freshman Computer Science at Jacobs University
+- 💻 BSc. Sophomore Computer Science at Jacobs University
 - 📍 Bremen, Germany
 
 
